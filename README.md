@@ -7,26 +7,27 @@ Este proyecto fue desarrollado como práctica académica en la materia de Estruc
 
 ## 📌 Funcionalidades principales
 
-- Añadir, modificar y eliminar tareas
-- Deshacer la última acción (agregar, modificar o eliminar)
-- Mostrar tareas registradas
-- Enviar tareas a una cola de impresión y procesarlas
-- Identificación automática por ID y control desde menú en consola
+- Añadir, modificar y eliminar tareas.
+- Deshacer la última acción (agregar, modificar o eliminar).
+- Mostrar tareas registradas.
+- Enviar tareas a una cola de impresión y procesarlas.
+- Identificación automática por ID y control desde menú en consola.
 
 ## 🛠️ Tecnologías y conceptos aplicados
 
-- Python 3
-- Listas enlazadas
-- Pilas (deshacer)
-- Colas (impresión)
-- Programación modular orientada a objetos
-- Lógica de flujo y validación de entradas
+- Python 3.
+- Listas enlazadas.
+- Pilas (deshacer).
+- Colas (impresión).
+- Programación modular orientada a objetos.
+- Lógica de flujo y validación de entradas.
 
 ## 📁 Estructura del repositorio
 
 ```
-├── final.py                 # Código fuente principal
-└── README.md                # Este archivo
+├── final.py                 # Código fuente principal.
+├── README.md                # Documentación en español (este archivo).
+└── README.en.md             # Documentación en inglés.
 ```
 
 ## ▶️ Instrucciones de uso
@@ -37,15 +38,15 @@ Este proyecto fue desarrollado como práctica académica en la materia de Estruc
    ```
 
 2. Sigue el menú para:
-   - Agregar tareas
-   - Modificar campos
-   - Deshacer acciones recientes
-   - Ver lista o imprimir tareas por cola
+   - Agregar tareas.
+   - Modificar campos.
+   - Deshacer acciones recientes.
+   - Ver lista o imprimir tareas por cola.
 
 ## 👥 Créditos
 
-Desarrollado por **Santiago Durán Rendón** y **Artemisa Tsubaki**  
-UNAM – Estructuras de Datos y Algoritmos I
+Desarrollado por **Santiago Durán Rendón** y **Artemisa Tsubaki**.
+UNAM – Estructuras de Datos y Algoritmos I.
 
 ## 📄 Licencia
 
