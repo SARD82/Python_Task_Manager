@@ -46,6 +46,7 @@ This project was developed as an academic practice for the Data Structures and A
 ## 👥 Credits
 
 Developed by **Santiago Durán Rendón** and **Artemisa Tsubaki**.
+
 UNAM – Data Structures and Algorithms I.
 
 ## 📄 Licencia

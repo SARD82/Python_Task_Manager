@@ -46,6 +46,7 @@ Este proyecto fue desarrollado como práctica académica en la materia de Estruc
 ## 👥 Créditos
 
 Desarrollado por **Santiago Durán Rendón** y **Artemisa Tsubaki**.
+
 UNAM – Estructuras de Datos y Algoritmos I.
 
 ## 📄 Licencia
