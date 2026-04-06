@@ -1,5 +1,8 @@
 # Sistema de Gestión de Tareas en Python (CLI)
 
+[English version](./README.en.md) | **Español**
+---
+
 Este proyecto fue desarrollado como práctica académica en la materia de Estructuras de Datos y Algoritmos I. Consiste en una aplicación por consola (CLI) para la gestión de tareas, implementando listas enlazadas, pilas y colas para simular operaciones reales como deshacer acciones, modificar tareas o enviarlas a impresión.
 
 ## 📌 Funcionalidades principales
