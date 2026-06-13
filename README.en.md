@@ -7,7 +7,7 @@ This project was developed as an academic practice for the Data Structures and A
 
 ## 📌 Main Features
 
-- add, modify, and delete tasks.
+- Add, modify, and delete tasks.
 - Undo the last action (add, modify, or delete).
 - Display registered tasks.
 - Send tasks to a print queue and process them.
@@ -49,7 +49,7 @@ Developed by **Santiago Durán Rendón** and **Artemisa Tsubaki**.
 
 UNAM – Data Structures and Algorithms I.
 
-## 📄 Licencia
+## 📄 License
 
 This project was created for educational purposes. You may reuse the code as long as you cite the source and do not use it for commercial purposes without permission.
 
