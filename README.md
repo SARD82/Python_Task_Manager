@@ -52,5 +52,6 @@ UNAM – Estructuras de Datos y Algoritmos I.
 ## 📄 Licencia
 
 Este proyecto fue realizado con fines educativos. Puedes reutilizar el código siempre y cuando cites la fuente y no uses con fines comerciales sin permiso.
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
 
 ---
