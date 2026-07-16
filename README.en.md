@@ -52,5 +52,6 @@ UNAM – Data Structures and Algorithms I.
 ## 📄 License
 
 This project was created for educational purposes. You may reuse the code as long as you cite the source and do not use it for commercial purposes without permission.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ---
